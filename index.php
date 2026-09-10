@@ -1,5 +1,7 @@
 <?php
-// Detect Mobile Device
+
+/*
+ // Detect Mobile Device
 function isMobile() {
     return preg_match(
         "/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos|iphone|ipad|ipod)/i",
@@ -59,8 +61,9 @@ if (!isMobile()) {
     <?php
     exit();
 }
+*/
 
-// Change this to your second page
+// Continue normally for ALL devices
 $redirect = "shop.php";
 ?>
 
