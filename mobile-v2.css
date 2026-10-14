@@ -816,7 +816,7 @@ body {
 
 .main-image-container {
     width: 100%;
-    aspect-ratio: 0.8/1;
+    aspect-ratio: 0.9/1;
     overflow: hidden;
     position: relative;
     background: #fff;
@@ -900,7 +900,7 @@ body {
 
 .product-title {
     font-size: 1rem;
-    color: #666;
+    color: black;
     font-weight: 500;
     margin-bottom: 12px;
     line-height: 1.4;
