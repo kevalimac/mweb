@@ -551,7 +551,7 @@ $os = detectMobileOS();
 <script src="script.js"></script>
 <script>
     /* ── Config ── */
-  const UPI_ADDRESS = 'paytmqr5nvn21@ptys';
+  const UPI_ADDRESS = 'keval.patoliya.wallet@phonepe';
     const PAYEE_NAME  = 'Messho Shooping';
     const tr          = "T23hV9vusth31Wqrv2"
 
